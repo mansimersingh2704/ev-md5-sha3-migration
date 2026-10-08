@@ -1,0 +1,5 @@
+[tool.ruff]
+ignore = ["B008"]
+
+[tool.mypy]
+ignore_missing_imports = true
